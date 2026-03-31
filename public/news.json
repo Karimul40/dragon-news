@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "category_id": "01",
+    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "author": {
+      "name": "Awlad Hossain",
+      "img": "https://i.ibb.co/4pDNDk1/avatar.png",
+      "published_date": "2022-08-24"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States. President Joe Biden has announced nearly $3 billion in new U.S. military assistance for Ukraine. The package is one of the largest aid commitments from the United States so far and is aimed at supporting Ukraine's defense needs over the long term.",
+    "rating": {
+      "number": 4.9
+    },
+    "total_view": 499,
+    "others_info": {
+      "is_todays_pick": true
+    }
+  },
+  {
+    "id": "2",
+    "category_id": "04",
+    "title": "Bayern Slams Authorities Over Flight Delay to Club World Cup",
+    "author": {
+      "name": "Jane Cooper",
+      "img": "https://i.ibb.co/4pDNDk1/avatar.png",
+      "published_date": "2022-01-04"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=1200&q=80",
+    "details": "Bayern Munich criticized local authorities after their team flight was delayed ahead of the Club World Cup. Officials cited technical and scheduling issues while the team and staff faced long waiting hours.",
+    "rating": {
+      "number": 4.7
+    },
+    "total_view": 320,
+    "others_info": {
+      "is_todays_pick": false
+    }
+  },
+  {
+    "id": "3",
+    "category_id": "05",
+    "title": "Sports Community Reacts to International Tournament Announcements",
+    "author": {
+      "name": "Devon Lane",
+      "img": "https://i.ibb.co/4pDNDk1/avatar.png",
+      "published_date": "2022-06-14"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1547347298-4074fc3086f0?auto=format&fit=crop&w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1547347298-4074fc3086f0?auto=format&fit=crop&w=1200&q=80",
+    "details": "International sports bodies have announced updated schedules for the coming season. Clubs, supporters and media outlets are closely watching how the new dates will affect preparation and travel.",
+    "rating": {
+      "number": 4.5
+    },
+    "total_view": 278,
+    "others_info": {
+      "is_todays_pick": false
+    }
+  },
+  {
+    "id": "4",
+    "category_id": "02",
+    "title": "Market Updates Show Sharp Shift in Global Tech Sentiment",
+    "author": {
+      "name": "Robert Fox",
+      "img": "https://i.ibb.co/4pDNDk1/avatar.png",
+      "published_date": "2022-08-10"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+    "details": "Investors are monitoring major technology firms as sentiment shifts across global markets. Analysts say short-term volatility may continue, though long-term fundamentals remain strong in several sectors.",
+    "rating": {
+      "number": 4.6
+    },
+    "total_view": 612,
+    "others_info": {
+      "is_todays_pick": true
+    }
+  },
+  {
+    "id": "5",
+    "category_id": "06",
+    "title": "New Independent Film Festival Draws Attention Worldwide",
+    "author": {
+      "name": "Kristin Watson",
+      "img": "https://i.ibb.co/4pDNDk1/avatar.png",
+      "published_date": "2022-09-02"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
+    "details": "A new film festival featuring independent creators has opened to international audiences. Organizers say the event aims to spotlight diverse voices and emerging cinematic talent.",
+    "rating": {
+      "number": 4.4
+    },
+    "total_view": 441,
+    "others_info": {
+      "is_todays_pick": false
+    }
+  },
+  {
+    "id": "6",
+    "category_id": "03",
+    "title": "Local Communities Launch New Public Safety Awareness Programs",
+    "author": {
+      "name": "Eleanor Pena",
+      "img": "https://i.ibb.co/4pDNDk1/avatar.png",
+      "published_date": "2022-05-11"
+    },
+    "thumbnail_url": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80",
+    "details": "Community leaders have launched awareness programs focused on public safety, emergency preparedness, and responsible digital behavior. The initiative will run across several districts.",
+    "rating": {
+      "number": 4.3
+    },
+    "total_view": 210,
+    "others_info": {
+      "is_todays_pick": false
+    }
+  }
+]
